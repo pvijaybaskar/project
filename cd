@@ -1,0 +1,81 @@
+[33mcommit 709c518e639b14d846b3c953236cdf4a26460204[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: pvijaybaskar <p.vijaybaskar@gmail.com>
+Date:   Fri Nov 14 13:57:52 2025 +0530
+
+    second commit
+
+[33mcommit 4cc6493b72cff005bee48755bb7f5a9b4b96949b[m
+Author: pvijaybaskar <p.vijaybaskar@gmail.com>
+Date:   Fri Nov 14 13:56:05 2025 +0530
+
+    first commit
+
+[33mcommit 997b1d9b106a261331b1d1f1bcca2a9f4c6abb92[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: e455dfc c56bc83
+Author: pvijaybaskar <p.vijaybaskar@gmail.com>
+Date:   Fri Nov 14 12:54:30 2025 +0530
+
+    merged
+
+[33mcommit c56bc8393c8bb642bcfa5b0df2e9584815db4f29[m[33m ([m[1;31morigin/operation[m[33m, [m[1;32moperation[m[33m, [m[1;32mDevelop[m[33m)[m
+Author: pvijaybaskar <p.vijaybaskar@gmail.com>
+Date:   Wed Nov 12 13:46:39 2025 +0530
+
+    duplicate
+
+[33mcommit e455dfc2a9f987089695bbf919d659e4c843a8bb[m[33m ([m[1;32mtesting[m[33m)[m
+Author: pvijaybaskar <p.vijaybaskar@gmail.com>
+Date:   Wed Nov 12 13:42:45 2025 +0530
+
+    checking
+
+[33mcommit a706f32f207e3414497f12b238882af6b41a87e9[m
+Merge: 6f1ffc1 86ca14c
+Author: pvijaybaskar <p.vijaybaskar@gmail.com>
+Date:   Wed Nov 12 13:35:40 2025 +0530
+
+    Merge branch 'main' of https://github.com/pvijaybaskar/project
+
+[33mcommit 6f1ffc17b1a8c3d6f25789b743cdb2e3c82002ac[m
+Author: pvijaybaskar <p.vijaybaskar@gmail.com>
+Date:   Wed Nov 12 13:34:34 2025 +0530
+
+    vijay
+
+[33mcommit 38166d3c024f338ae89d27f71a9cf1f20fa23195[m
+Author: pvijaybaskar <p.vijaybaskar@gmail.com>
+Date:   Wed Nov 12 13:32:28 2025 +0530
+
+    final
+
+[33mcommit 86ca14c78632853348cf0909d1abe13dac1b631c[m
+Author: pvijaybaskar <p.vijaybaskar@gmail.com>
+Date:   Wed Nov 12 13:02:04 2025 +0530
+
+    Add new line with 'i am fine'
+    
+    update 2
+
+[33mcommit a13bd88314925a401cf05a0a8bc0a1dd8fe4e389[m[33m ([m[1;31morigin/Develop[m[33m)[m
+Author: pvijaybaskar <p.vijaybaskar@gmail.com>
+Date:   Wed Nov 12 12:28:25 2025 +0530
+
+    new
+
+[33mcommit 0f76896c504f0703f6781678fc30b7a6615e89d6[m
+Author: pvijaybaskar <p.vijaybaskar@gmail.com>
+Date:   Wed Nov 12 12:18:57 2025 +0530
+
+    update
+
+[33mcommit 4d6884600730b867295fd11c47b2b79eac5dfa90[m
+Author: pvijaybaskar <p.vijaybaskar@gmail.com>
+Date:   Tue Nov 11 12:48:41 2025 +0530
+
+    new
+
+[33mcommit 760f2f6ebbc45406a2e2da8311658afe49a5c078[m
+Author: pvijaybaskar <p.vijaybaskar@gmail.com>
+Date:   Tue Nov 11 12:38:36 2025 +0530
+
+    Initial commit
